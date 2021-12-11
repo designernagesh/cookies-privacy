@@ -22,7 +22,7 @@ html{
 .container .open-btn{
     background-color: #FFF;
     font-size: 20px;    color: #333;
-    height: 50px;    width: 200px;
+    padding: 15px 25px;
     border-radius: 5px; cursor: pointer;
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
 }
